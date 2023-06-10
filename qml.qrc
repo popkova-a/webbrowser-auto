@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>TabWindow.qml</file>
+        <file>main.qml</file>
+        <file>TabRectangle.qml</file>
+        <file>TextInp.qml</file>
+        <file>HistoryMenu.qml</file>
+        <file>icons/app-icon.png</file>
+        <file>icons/back-arrow-active.png</file>
+        <file>icons/back-arrow-inactive.png</file>
+        <file>icons/history-button-active.png</file>
+        <file>icons/history-button-inactive.png</file>
+        <file>icons/home-button-active.png</file>
+        <file>icons/home-button-inactive.png</file>
+        <file>icons/next-arrow-active.png</file>
+        <file>icons/next-arrow-inactive.png</file>
+        <file>icons/reload-arrow.png</file>
+        <file>icons/stop-button.png</file>
+    </qresource>
+</RCC>
